@@ -1,0 +1,4 @@
+{
+ "loggedInUser": "section > main > div > div > div > div > div > div > div > div:nth-child(1)",
+ "loggedOutUser": "section > main > div > div > div > article > div:nth-child(1) > div > div:nth-child(1)"
+}
